@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/genome-sequence-classification/static/css/main.f5f9d2e2.css",
-    "main.js": "/genome-sequence-classification/static/js/main.64fc26ab.js",
+    "main.js": "/genome-sequence-classification/static/js/main.2493ea41.js",
     "static/media/agtc.jpg": "/genome-sequence-classification/static/media/agtc.a0ab3afdb52c420cb6c2.jpg",
     "static/media/contribution.png": "/genome-sequence-classification/static/media/contribution.bef297f81da57125500a.png",
     "static/media/ecoli.png": "/genome-sequence-classification/static/media/ecoli.05925967935cb7036171.png",
@@ -9,10 +9,10 @@
     "static/media/logo.png": "/genome-sequence-classification/static/media/logo.e3ffbbb60e443119c281.png",
     "index.html": "/genome-sequence-classification/index.html",
     "main.f5f9d2e2.css.map": "/genome-sequence-classification/static/css/main.f5f9d2e2.css.map",
-    "main.64fc26ab.js.map": "/genome-sequence-classification/static/js/main.64fc26ab.js.map"
+    "main.2493ea41.js.map": "/genome-sequence-classification/static/js/main.2493ea41.js.map"
   },
   "entrypoints": [
     "static/css/main.f5f9d2e2.css",
-    "static/js/main.64fc26ab.js"
+    "static/js/main.2493ea41.js"
   ]
 }
